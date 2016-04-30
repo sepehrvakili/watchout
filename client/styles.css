@@ -4,6 +4,6 @@
 Feel free to use it if you like. */
 
 .circle div {
-	xlink: href;url('asteroid.png');
+	background-image: url('asteroid.png');
 }
 
